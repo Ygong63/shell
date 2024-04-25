@@ -49,7 +49,7 @@ Title: **The** Lucky One
 Hanger Games & the **Stars** of Darkness
 
 The secret password is paperrings10meetsandthestars
-
+ 
 Use cd and ls to look for the directory and cat to print contents
 ```
 
