@@ -35,10 +35,20 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 **What is the secret password?**
 ```
 Your answer here...
+1. The very odd and inedible ingredient in a cake recipe
+paper rings
+2. The season number that contains only 18 episodes (Hint: How do you list them?)
+season 10
+3. Fifth word of Season 6, Episode 21 of Friends
+The One Where Ross **Meets** Elizabeth's Dad
+4. Fifth word of the fifth fictional Space Wars series
+Space Wars: Future Legends **and** Past Legacies
+5. Second word of this song that's exactly 4 minutes long in this "colour" album
+Title: **The** Lucky One
+6. The fourth word to the fourth Hunger Games movie
+Hanger Games & the **Stars** of Darkness
 
-
-
-
+The secret password is paperrings10meetsandthestars
 ```
 
 |Criteria|Complete|Incomplete|
