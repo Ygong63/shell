@@ -59,9 +59,16 @@ cat chocolate_cake.txt
 cd /c/DSI/shell/02_assignments/clues/shows/friends
 ls season_10
 cd season_6
-cat ep_21.txt 
+cat ep_21.txt
 
+cd clues/movies/space_wars
+cat fifth_movie.txt
 
+cd albums/red/
+cat cat song_5.txt
+
+cd movies/hanger_games/
+cat movie_4.txt
 ```
 
 |Criteria|Complete|Incomplete|
