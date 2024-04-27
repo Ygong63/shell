@@ -49,8 +49,26 @@ Title: **The** Lucky One
 Hanger Games & the **Stars** of Darkness
 
 The secret password is paperrings10meetsandthestars
-
+ 
 Use cd and ls to look for the directory and cat to print contents
+cd /c/DSI/shell/02_assignments/clues/food/cake
+cat vanilla_cake.txt
+cat red_velvet_cake.txt
+cat chocolate_cake.txt
+
+cd /c/DSI/shell/02_assignments/clues/shows/friends
+ls season_10
+cd season_6
+cat ep_21.txt
+
+cd clues/movies/space_wars
+cat fifth_movie.txt
+
+cd albums/red/
+cat cat song_5.txt
+
+cd movies/hanger_games/
+cat movie_4.txt
 ```
 
 |Criteria|Complete|Incomplete|
